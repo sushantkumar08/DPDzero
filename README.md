@@ -2,11 +2,10 @@
 DPDzero Assessment
 
 
-Here’s a structured version of your assignment that you can easily paste into a GitHub README file:
 
 ---
 
-# DPDzero Data Analyst Assignment - 2024
+# DPDzero Data Analyst Assignment
 
 This assignment is designed to give you a flavor of the kind of data analysis a typical data analyst does at DPDzero. Data analysts here leverage **Jupyter notebooks** heavily, and you are expected to use the **same tool** to complete this task.
 
@@ -97,16 +96,7 @@ DPDzero employs different channels to communicate with borrowers to encourage ti
 
 ---
 
-## Submission Guidelines
 
-You are required to submit the following:
-
-1. A PDF report of your Jupyter notebook.
-2. Include the following in the report:
-   - Summary of borrowers (with graphs) based on risk.
-   - Summary of borrowers (with graphs) based on ticket size.
-   - Summary of borrowers (with graphs) based on tenure completion.
-   - Spend recommendations for borrowers (with graphs), highlighting how you have minimized spend while maximizing repayment rates.
    - Any other interesting insights derived from the data.
 
 
