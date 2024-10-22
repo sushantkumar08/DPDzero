@@ -1,15 +1,9 @@
 # DPDzero Data Analyst Assignment
 
-
-
-
-
-
-
-
 This assignment is designed to give you a flavor of the kind of data analysis a typical data analyst does at DPDzero. Data analysts here leverage **Jupyter notebooks** heavily, and you are expected to use the **same tool** to complete this task.
 
 Please note that this is an **open-ended** assignment.
+
 
 ## Dataset
 
